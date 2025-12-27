@@ -1,2 +1,2 @@
-# tradification-main
-This is my git repository
+# trade-repo
+Responsive website
